@@ -12,7 +12,7 @@ Exemplo de Saída:
 
 Para o valor tamanho = 4, a saída deve ser:
 
-![img.png](img.png)
+![img.png](src/main/resources/img/img.png)
 
 
 Enunciado da Questão 02:
@@ -37,9 +37,9 @@ Regras para o cálculo:
 
 Implemente o seguinte método:
 
-![img_6.png](img_6.png)
+![img_6.png](src/main/resources/img/img_6.png)
 
-![img_2.png](img_2.png)
+![img_2.png](src/main/resources/img/img_2.png)
 
 Enunciado da Questão 03:
 
@@ -64,9 +64,9 @@ Regras:
 
 ✏️ Assinatura esperada do método:
 
-![img_5.png](img_5.png)
+![img_5.png](src/main/resources/img/img_5.png)
 
-![img_4.png](img_4.png)
+![img_4.png](src/main/resources/img/img_4.png)
 
 Enunciado da Questão 04:
 
@@ -92,15 +92,15 @@ Você deve implementar um método que, dada uma lista de entregas, retorne uma n
 
 ✏️ Modelo da classe Entrega:
 
-![img_7.png](img_7.png)
+![img_7.png](src/main/resources/img/img_7.png)
 
 ✏️ Assinatura esperada do método:
 
-![img_8.png](img_8.png)
+![img_8.png](src/main/resources/img/img_8.png)
 
 ✅ Exemplo de entrada e saída:
 
-![img_9.png](img_9.png)
+![img_9.png](src/main/resources/img/img_9.png)
 
 Enunciado da Questão 05:
 
@@ -108,7 +108,7 @@ Desafio: Validador de Placa de Veículo
 Descrição do problema:
 O sistema da transportadora precisa validar o formato das placas de veículos utilizados nas entregas. No Brasil, desde 2018, está em uso o formato Mercosul, que segue o padrão:
 
-![img_10.png](img_10.png)
+![img_10.png](src/main/resources/img/img_10.png)
 
 Onde:
 
@@ -120,7 +120,7 @@ Você deve criar um método que valide se uma string representa uma placa válid
 
 ✏️ Assinatura esperada do método:
 
-![img_11.png](img_11.png)
+![img_11.png](src/main/resources/img/img_11.png)
 
 ✅ Exemplos de placas válidas:
 
